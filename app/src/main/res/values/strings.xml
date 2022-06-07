@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My RPM</string>
+
+    <string name="slogan">Melayani dengan sepenuh hati</string>
+    <string name="signin">MASUK</string>
+    <string name="username_label">Nama Pengguna</string>
+    <string name="password_label">Kata Sandi</string>
+    <string name="email_label">Alamat Email</string>
+    <string name="next">Lanjutkan</string>
+    <string name="name_label">Nama</string>
+    <string name="bio_label">Nomor Telepon</string>
+    <string name="explore">JELAJAHI SEKARANG</string>
+    <string name="title_activity_masjid">Masjid Terdekat</string>
+
+
+    <string-array name="Jenis_kelamin">
+        <item> Laki-Laki</item>
+        <item>Perempuan </item>
+    </string-array>
+
+
+    <string-array name="Hubungan_Ahli_waris">
+        <item>Anak</item>
+        <item>Ayah/Ibu</item>
+        <item>Suami/Istri</item>
+        <item>Saudara</item>
+    </string-array>
+
+</resources>
